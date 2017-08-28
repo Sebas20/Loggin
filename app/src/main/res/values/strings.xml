@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Loggin</string>
+    <string name="registro">Registro</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellido">Apellido:</string>
+    <string name="correo">Email:</string>
+    <string name="telefono">Teléfono:</string>
+    <string name="ciudad">Ciudad de Nacimiento:</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="hobbies">Hobbies:</string>
+    <string name="cine">Ir a Cine</string>
+    <string name="comer">Comer</string>
+    <string name="bailar">Bailar</string>
+    <string name="leer">Leer</string>
+    <string name="registrar">Registrar</string>
+    <string name="informacion">Información</string>
+    <string name="loggin">Loggin:</string>
+    <string name="password">Password</string>
+    <string name="confirmar">Confirmar Password</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+    <string name="genero">Género:</string>
+
+    <string-array name="ciudades">
+        <item></item>
+        <item>Armenia</item>
+        <item>Apartadó</item>
+        <item>Barranquilla</item>
+        <item>Bello</item>
+        <item>Bogotá</item>
+        <item>Bucaramanga</item>
+        <item>Buenaventura</item>
+        <item>Buga</item>
+        <item>Cali</item>
+        <item>Cartagena</item>
+        <item>Cúcuta</item>
+        <item>Envigado</item>
+        <item>Florencia</item>
+        <item>Girardot</item>
+        <item>Ibagué</item>
+        <item>Ipiales</item>
+        <item>Itaguí</item>
+        <item>Leticia</item>
+        <item>Medellín</item>
+        <item>Manizales</item>
+        <item>Montería</item>
+        <item>Mocoa</item>
+        <item>Neiva</item>
+        <item>Palmira</item>
+        <item>Pasto</item>
+        <item>Pereira</item>
+        <item>Popayán</item>
+        <item>Quibdó</item>
+        <item>Rionegro</item>
+        <item>Riohacha</item>
+        <item>Santa Marta</item>
+        <item>Sincelejo</item>
+        <item>Soacha</item>
+        <item>Tunja</item>
+        <item>Tuluá</item>
+        <item>Tumaco</item>
+        <item>Yopal</item>
+        <item>Valledupar</item>
+        <item>Villavicencio</item>
+    </string-array>
+
+</resources>
